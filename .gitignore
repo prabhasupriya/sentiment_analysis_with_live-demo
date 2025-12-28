@@ -1,0 +1,50 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# ======================
+# Node / React
+# ======================
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Environment files
+# ======================
+.env
+.env.local
+.env.development
+.env.production
+
+# ======================
+# Docker
+# ======================
+*.log
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Coverage reports
+# ======================
+coverage/

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+psycopg2-binary
+python-dotenv
+
+# database
+sqlalchemy>=2.0
+asyncpg
+
+# redis (IMPORTANT)
+redis>=4.5
